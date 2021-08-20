@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+spacy
+re
+json5==0.9.5
+hashlib
+en-core-sci-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_md-0.4.0.tar.gz
+scikit-image==0.18.1
